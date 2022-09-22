@@ -50,7 +50,7 @@ ul{
     align-items: center;
 }
 body{
-    font-family:"Roboto Regular", sans-serif;
+    font-family:"Roboto", sans-serif;
     font-weight: 500;
 
 }
@@ -68,7 +68,7 @@ body{
     fill:#757575;
     height: 12px;
 }
-.icon-link :hover{
+.header-contact:hover svg{
     fill: var(--accent-color);
 }
 
@@ -92,7 +92,7 @@ body{
     padding-top: 32px;
     padding-bottom: 32px;
 
-    font-family: "Roboto Medium",sans-serif;
+    font-family: "Roboto",sans-serif;
     font-size: 14px;
     line-height: 1.17;
     letter-spacing: 0.02em;
@@ -111,7 +111,7 @@ body{
  }
 .header-contact{
     color:var(--primary-text-color);
-    font-family: "Roboto Medium",sans-serif;
+    font-family: "Roboto",sans-serif;
     text-decoration: none;
     font-size: 14px;
     line-height: 1.17;
